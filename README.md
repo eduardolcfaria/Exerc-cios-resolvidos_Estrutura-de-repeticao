@@ -1,13 +1,13 @@
 # Exercicios-resolvidos_Estrutura-de-repeticao[Java]
 Exercícios utilizando estruturas de repetição (IF, WHILE, DO WHILE)
 
-1.Criar um programa que leia a idade, o nome e o peso de várias pessoas e imprima: a) total de pessoas com menos de 21 anos e b) a média das idades 
+1. Criar um programa que leia a idade, o nome e o peso de várias pessoas e imprima: a) total de pessoas com menos de 21 anos e b) a média das idades 
 e c) o peso médio das pessoas com mais de 50 anos. O programa finaliza quando digitar um valor negativo para idade.
 
 2. Criar um programa para entrar com o número da conta, o nome e o saldo de várias pessoas. Se o saldo for mais que R$ 500,00 mostre o nome e a mensagem: “cliente vip”. Ao final, mostrar o percentual de pessoas com saldos entre R$ 100,00 e R$ 200,00. O programa acaba quando se digita um valor negativo 
 para o número da conta.
 
-3.Faça um programa para entrar com a idade, o nome, e o peso de várias pessoas. Se o peso for superior a 80 kg, mostrar o nome e a mensagem: “obeso”. Ao final, mostrar a quantidade de pessoas com menos de 18 anos. O programa finaliza quando digitar um valor negativo para a idade.
+3. Faça um programa para entrar com a idade, o nome, e o peso de várias pessoas. Se o peso for superior a 80 kg, mostrar o nome e a mensagem: “obeso”. Ao final, mostrar a quantidade de pessoas com menos de 18 anos. O programa finaliza quando digitar um valor negativo para a idade.
 
 4. Faça um programa para entrar com a idade, o nome, e o peso de várias pessoas. Se o peso for superior a 80 kg, mostrar o nome e a mensagem: “obeso”. Ao final, mostrar a quantidade de pessoas com menos de 18 anos. O programa finaliza quando digitar um valor negativo para a idade.
 
